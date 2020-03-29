@@ -4,13 +4,14 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.gupao.vip</groupId>
+  <groupId>com.rpc.java</groupId>
   <artifactId>java-tech</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>java-openclose-principle</module>
     <module>java-dependenceInversion-principle</module>
+      <module>java-demo</module>
   </modules>
 
   <name>java-tech</name>

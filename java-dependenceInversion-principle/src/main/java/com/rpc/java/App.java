@@ -1,4 +1,4 @@
-package com.gupao.vip;
+package com.rpc.java;
 
 /**
  * Hello world!

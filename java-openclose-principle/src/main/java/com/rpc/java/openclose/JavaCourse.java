@@ -1,4 +1,4 @@
-package com.gupao.vip.openclose;
+package com.rpc.java.openclose;
 
 public class JavaCourse implements ICourse {
 
