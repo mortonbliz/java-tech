@@ -12,6 +12,8 @@
     <module>java-openclose-principle</module>
     <module>java-dependenceInversion-principle</module>
       <module>java-demo</module>
+      <module>java-spring-1.0</module>
+      <module>java-spring-v1.0</module>
   </modules>
 
   <name>java-tech</name>
