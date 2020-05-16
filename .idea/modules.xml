@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java-dependenceInversion-principle/java-dependenceInversion-principle.iml" filepath="$PROJECT_DIR$/java-dependenceInversion-principle/java-dependenceInversion-principle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-openclose-principle/java-openclose-principle.iml" filepath="$PROJECT_DIR$/java-openclose-principle/java-openclose-principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-demo/java-demo.iml" filepath="$PROJECT_DIR$/java-demo/java-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-mybatis-demo/java-mybatis-demo.iml" filepath="$PROJECT_DIR$/java-mybatis-demo/java-mybatis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-mybatis-v1.0/java-mybatis-v1.0.iml" filepath="$PROJECT_DIR$/java-mybatis-v1.0/java-mybatis-v1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-principle-demo/java-principle-demo.iml" filepath="$PROJECT_DIR$/java-principle-demo/java-principle-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-spring-v1.0/java-spring-v1.0.iml" filepath="$PROJECT_DIR$/java-spring-v1.0/java-spring-v1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-spring-v2.0/java-spring-v2.0.iml" filepath="$PROJECT_DIR$/java-spring-v2.0/java-spring-v2.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-tech.iml" filepath="$PROJECT_DIR$/java-tech.iml" />
     </modules>
   </component>

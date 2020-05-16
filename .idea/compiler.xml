@@ -2,18 +2,38 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java-dependenceInversion-principle" />
-        <module name="java-openclose-principle" />
+        <module name="java-mybatis-demo" />
+        <module name="java-spring-v1.0" />
+        <module name="java-principle-demo" />
+        <module name="java-demo" />
+        <module name="java-spring-v2.0" />
+        <module name="java-mybatis-v1.0" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="java-demo" target="1.8" />
       <module name="java-dependenceInversion-principle" target="1.8" />
+      <module name="java-mybatis" target="1.8" />
+      <module name="java-mybatis-demo" target="1.8" />
+      <module name="java-mybatis-v1.0" target="1.8" />
       <module name="java-openclose-principle" target="1.8" />
+      <module name="java-principle-demo" target="1.8" />
+      <module name="java-spring-1.0" target="1.8" />
+      <module name="java-spring-v1.0" target="1.6" />
+      <module name="java-spring-v2.0" target="1.6" />
       <module name="java-tech" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="java-mybatis" options="" />
+      <module name="java-spring-v1.0" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_221/jre/lib/rt.jar&quot;" />
+      <module name="java-spring-v2.0" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_221/jre/lib/rt.jar&quot;" />
+    </option>
   </component>
 </project>
